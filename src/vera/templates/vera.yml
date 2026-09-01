@@ -1,0 +1,2 @@
+# Throwaway content written by tests/acceptance/test_protected_paths_pr_guard.py.
+# This branch is never merged; the fixture closes the PR and deletes the ref.
