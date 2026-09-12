@@ -3,4 +3,5 @@
 
 def add(left: int, right: int) -> int:
     """Return the sum of two integers."""
+    # Integer addition is commutative, so operand order does not affect the result.
     return left + right
